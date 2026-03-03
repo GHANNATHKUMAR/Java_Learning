@@ -6,3 +6,6 @@
 
 #Day2
 -variables name and variables define 
+
+#Day3
+-Java Data Types..
