@@ -13,7 +13,7 @@
 -Type casting 
 
 #Day5
-String and their methodds 
+-String and their methodds 
 
 #Day6
 - StringBuilder and their methods
