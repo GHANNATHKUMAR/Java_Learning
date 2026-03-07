@@ -18,3 +18,5 @@
 #Day6
 - StringBuilder and their methods
 
+-#Day7
+-Java Math
