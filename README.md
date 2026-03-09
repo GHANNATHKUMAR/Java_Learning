@@ -21,4 +21,11 @@
 -#Day7
 -Java Math
 
-#Day8
+#Day8 
+-> Java Booleans and IF-ELSE IF - ELSE STAT
+
+#Day9 
+->JAVA switch statement
+
+#Day10
+-> Loop (For,while,DO-WHILE) , FOR 
