@@ -43,4 +43,12 @@
 -> QUESTION ON METHOD UNDERSTAND 
 
 #DAY15
-->
+->all code have been pushed
+   LinkedList
+   Stack
+   Queue
+   Trees
+   Graph 
+   Dyanmic Progamming
+   Binary heap
+   Trie
